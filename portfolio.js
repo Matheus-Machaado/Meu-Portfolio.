@@ -40,7 +40,7 @@ ScrollReveal().reveal('.inicio-content, span' , { origin: 'top' });
 ScrollReveal().reveal('.inicio-content h1', { origin: 'left' });
 
 const typed = new Typed('.multiple-text', {
-    strings: ['Desenvolvedor Front-end', 'UX/UI Designer'],
+    strings: ['Desenvolvedor Front-end', 'Web Designer'],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
